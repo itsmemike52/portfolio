@@ -131,7 +131,7 @@ header .follow a:hover{
     transform: translate(-50%, -50%);
     border-radius: 50%;
     z-index: 10000;
-    transition: .1s linear;
+    transition: .2s linear;
 }
 
 .cursor-1.active{
